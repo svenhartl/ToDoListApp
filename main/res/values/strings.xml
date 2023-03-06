@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+    <string name="close">Close</string>
+    <string name="Todo">To do</string>
+    <string name="alltasks">All tasks</string>
+    <string name="addtask">Add tasks</string>
+    <string name="seealltasks">See all tasks</string>
+    <string name="fill">Fill the details below to add a task into your TODO</string>
+    <string name="title">Task title</string>
+    <string name="desc">Task description</string>
+    <string name="date">Task date</string>
+    <string name="time">Task time</string>
+    <string name="event">Add an event</string>
+    <string name="addtaskk">Add task</string>
+    <string name="completed">COMPLETED</string>
+    <string name="completedd">Completed</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="delete_confirmation">Potvrda</string>
+    <string name="sureToDelete">Jeste li sigurni da želite izbrisati zadatak?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="confirmation">Izvršen zadatak!..</string>
+    <string name="sureToMarkAsComplete">Jeste li sigurni da želite označiti ovaj zadatak kao izvršen?</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Čestitamo!.. Uspješno ste obavili zadatak..</string>
+    <string name="close">Zatvori</string>
+    <string name="Todo">Za napraviti</string>
+    <string name="alltasks">Svi zadatci</string>
+    <string name="addtask">Dodaj zadatak</string>
+    <string name="seealltasks">Pregledaj sve zadatke</string>
+    <string name="fill">Ispuni podatke ispod kako bi dodali zadatak u vaš TODO</string>
+    <string name="title">Naslov zadatka</string>
+    <string name="desc">Opis zadatka</string>
+    <string name="date">Datum zadatka</string>
+    <string name="time">Vrijeme zadatka</string>
+    <string name="event">Dodaj događaj</string>
+    <string name="addtaskk">Dodaj zadatak</string>
+    <string name="completed">IZVRŠENO</string>
+    <string name="completedd">Izvršeno</string>
+    <string name="delete">Obriši</string>
+    <string name="update">Ažuriraj</string>
+
+
+
+
+</resources>
